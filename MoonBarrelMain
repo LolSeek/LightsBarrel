@@ -1,5 +1,3 @@
--- i made it very quick and i was lazy so dont mess the very bad code
-
 local TweenService = game:GetService("TweenService")
 local StarJug = game:GetObjects("rbxassetid://84843039150594")[1]
 
